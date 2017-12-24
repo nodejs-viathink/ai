@@ -22,9 +22,9 @@ if (path.extname(outputImgPath).toLowerCase() !== '.png') {
 }
 
 // 设置APPID/AK/SK
-const APP_ID = '10575838';
-const API_KEY = '9oDMAvZ3bMoGD9kDcIF9n2FS';
-const SECRET_KEY = '7nCGGTBzjGeAkobdLYDAgHHC5c0ho6tR';
+const APP_ID = '创建应用的APP_ID';
+const API_KEY = '创建应用的API_KEY';
+const SECRET_KEY = '创建应用的SECRET_KEY';
 const HAT_IMAGE_PATH = `${__dirname}/image/hat.png`;
 
 const wearHat = async() => {
