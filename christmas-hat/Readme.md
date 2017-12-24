@@ -9,7 +9,7 @@
 
 ## Example
 
-    ./src/index.js ./test/fanghua-3.jpeg ./image/person-hat.png
+    ./index.js ./test/fanghua-3.jpeg ./image/person-hat.png
 
 ## 效果
 
