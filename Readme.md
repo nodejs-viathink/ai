@@ -4,14 +4,8 @@
 
 > 灵感来自微信`@微信官方`的戴圣诞帽活动
 
-## 项目一 图片识别人脸戴圣诞帽（百度AI人脸检测API + NodeJS）
+* [图片识别人脸戴圣诞帽（百度AI人脸检测API + NodeJS)](https://github.com/nodejs-viathink/ai/tree/master/christmas-hat)
 
+* 项目二 图片识别人脸戴圣诞帽 （openCV3 + python3）TODO...
 
-## 项目二 图片识别人脸戴圣诞帽 （openCV3 + python3）
-
-
-> TODO...
-
-## 项目三 视频识别人脸实时戴圣诞帽 （openCV3 + python3）
-
-> TODO...
+* 项目三 视频识别人脸实时戴圣诞帽 （openCV3 + python3）TODO...

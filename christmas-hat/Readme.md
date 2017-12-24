@@ -15,4 +15,8 @@
 
 原始图
 
+![原始图](https://github.com/nodejs-viathink/ai/blob/master/christmas-hat/test/fanghua-3.jpeg)
+
 结果图
+
+![原始图](https://github.com/nodejs-viathink/ai/blob/master/christmas-hat/image/person-hat.png)
